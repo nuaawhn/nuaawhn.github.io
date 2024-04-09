@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2024/04/07/hello-world/</loc>
+    <loc>http://example.com/2024/04/09/%E5%AF%86%E5%BA%A6%E8%81%9A%E7%B1%BB/</loc>
     
-    <lastmod>2024-04-07</lastmod>
+    <lastmod>2024-04-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2024/04/09/Digital%20Twin%20Constructed%20Spatial%20Structure%20for%20Flexible%20and%20Efficient%20Task%20Allocation%20of%20Drones%20in%20Mobile%20Networks/</loc>
+    
+    <lastmod>2024-04-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
